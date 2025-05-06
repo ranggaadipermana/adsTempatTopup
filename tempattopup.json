@@ -1,7 +1,7 @@
 [
   {
-    "icon": "https://example.com/icon1.png",
-    "nama_game": "https://tempattopup.com/assets/img/kategori/1731578385e-legends-tempattopup.webp",
+    "icon": "https://tempattopup.com/assets/img/kategori/1731578385e-legends-tempattopup.webp",
+    "nama_game": "Mobile Legends",
     "link": "https://tempattopup.com/beli/mobile-legends",
     "deskripsi": "Top Up DM & WDP MLBB"
   },
@@ -12,9 +12,9 @@
     "deskripsi": "Weekly Diamond Pass Mobile Legends"
   },
   {
-    "icon": "https://tempattopup.com/beli/blood-strike",
+    "icon": "https://tempattopup.com/assets/img/kategori/1744242970-strike-tempattopup.webp",
     "nama_game": "Blood Strike",
-    "Link": "https://tempattopup.com/assets/img/kategori/1744242970-strike-tempattopup.webp",
+    "Link": "https://tempattopup.com/beli/blood-strike",
     "deskripsi": "Top Up Blood Strike"
   },
   {
