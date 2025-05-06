@@ -3,24 +3,37 @@
     "icon": "https://tempattopup.com/assets/img/kategori/1731578385e-legends-tempattopup.webp",
     "nama_game": "Mobile Legends",
     "link": "https://tempattopup.com/beli/mobile-legends",
-    "deskripsi": "Top Up DM & WDP MLBB"
+    "deskripsi": "Top Up Diamond MLBB Indonesia"
   },
   {
     "icon": "https://tempattopup.com/assets/img/kategori/1723531305l.webp",
-    "nama_game": "WDP MLBB Indonesia",
+    "nama_game": "Weekly Diamond Pass",
     "link": "https://tempattopup.com/beli/weekly-diamond-pass",
-    "deskripsi": "Weekly Diamond Pass Mobile Legends"
+    "deskripsi": "Top Up WDP Mobile Legends Indonesia"
   },
   {
     "icon": "https://tempattopup.com/assets/img/kategori/1744242970-strike-tempattopup.webp",
     "nama_game": "Blood Strike",
     "link": "https://tempattopup.com/beli/blood-strike",
-    "deskripsi": "Top Up Blood Strike"
+    "deskripsi": "Top Up Blood Strike Pass & Gold"
   },
   {
     "icon": "https://tempattopup.com/assets/img/kategori/1744244079fire-tempattopup.webp",
-    "nama_game": "Diamond Free Fire",
+    "nama_game": "Free Fire",
     "link": "https://tempattopup.com/beli/free-fire",
     "deskripsi": "Top Up DM & Membership FF."
+  },
+  {
+    "icon": "https://tempattopup.com/assets/img/kategori/1731579192empattopup.webp",
+    "nama_game": "Honor of Kings",
+    "link": "https://tempattopup.com/beli/honor-of-kings",
+    "deskripsi": "Top Up Weekly dan Token HOK"
+  }
+  ,
+  {
+    "icon": "https://tempattopup.com/assets/img/kategori/1731662027-indo.webp",
+    "nama_game": "PUBG Mobile",
+    "link": "https://tempattopup.com/beli/pubg-mobile-indonesia",
+    "deskripsi": "Top Up UC & Royale Pass PUBGM"
   }
 ]
